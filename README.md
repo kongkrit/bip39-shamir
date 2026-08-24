@@ -2,7 +2,7 @@
 
 Split a BIP39 mnemonic into Shamir secret sharing parts, and combine parts back into the mnemonic.
 
-Everything is one self-contained `index.html` — no network access, no build step, no frameworks.
+Everything is self-contained in `index.html` and `icon-180.png` — no network access, no build step, no frameworks.
 
 ## Usage
 
